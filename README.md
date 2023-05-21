@@ -6,7 +6,7 @@ This is a brief overview of our app, highlighting key information:
 
 -   MainVersion: Designed for Android hardware devices with larger displays (eg. Tablets).
 -   GlassesVersion: Intended for Android hardware devices with smaller displays (eg.r Google Glasses, Mobile Phones).
--   ArucosVersion: Older Version of our project uses arucos for localizatio.
+-   ArucosVersion: Older Version of our project uses arucos for localization.
 
 ## Catalog:
 
