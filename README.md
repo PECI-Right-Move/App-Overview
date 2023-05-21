@@ -4,9 +4,9 @@ This is a brief overview of our app, highlighting key information:
 
 ## Apk Versions:
 
--   MainVersion: Designed for Android hardware devices.
--   GlassesVersion: Specifically developed for Google Glasses.
--   ArucosVersion: Intended for older Android hardware devices.
+-   MainVersion: Designed for Android hardware devices with larger displays (eg. Tablets).
+-   GlassesVersion: Intended for Android hardware devices with smaller displays (eg.r Google Glasses, Mobile Phones).
+-   ArucosVersion: Older Version of our project uses arucos for localizatio.
 
 ## Catalog:
 
