@@ -1,3 +1,4 @@
 ArucosVersion/app-debug.apk filter=lfs diff=lfs merge=lfs -text
 GlassesVersion/app-debug.apk filter=lfs diff=lfs merge=lfs -text
 MainVersion/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
