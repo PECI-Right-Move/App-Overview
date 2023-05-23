@@ -4,9 +4,9 @@ This is a brief overview of our app, highlighting key information:
 
 ## Apk Versions:
 
--   MainVersion: Designed for Android hardware devices with larger displays (eg. Tablets).
--   GlassesVersion: Intended for Android hardware devices with smaller displays (eg.r Google Glasses, Mobile Phones).
--   ArucosVersion: Older Version of our project uses arucos for localization.
+-   **MainVersion**: Designed for Android hardware devices with larger displays (eg. Tablets).
+-   **GlassesVersion**: Intended for Android hardware devices with smaller displays (eg.r Google Glasses, Mobile Phones).
+-   **ArucosVersion**: Older Version of our project uses arucos for localization.
 
 ## Catalog:
 
@@ -16,11 +16,11 @@ Explore our catalog, which contains pre-made assemblies for testing our applicat
 
 Access our comprehensive documentation for detailed information on our app and its features.
 
-## Video:
+## Videos:
 
-- RightMoveTrailer: Watch our short application trailer to get a glimpse of the app's exciting features and functionality. The trailer showcases the key highlights of the RightMove Application, giving you an overview of its capabilities.
+-   **RightMoveTrailer**: Watch our short application trailer to get a glimpse of the app's exciting features and functionality. The trailer showcases the key highlights of the RightMove Application, giving you an overview of its capabilities.
 
-- RightMoveDemo: For a more detailed demonstration, check out our application demo. The demo showcases the main functionality of the application, providing a step-by-step walkthrough of its key features and how they can benefit users.
+-   **RightMoveDemo**: For a more detailed demonstration, check out our application demo. The demo showcases the main functionality of the application, providing a step-by-step walkthrough of its key features and how they can benefit users.
 
 ## Repositories:
 
