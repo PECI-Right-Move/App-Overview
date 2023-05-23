@@ -18,7 +18,9 @@ Access our comprehensive documentation for detailed information on our app and i
 
 ## Video:
 
-Watch a short video demonstrating our app and its functionality.
+- RightMoveTrailer: Watch our short application trailer to get a glimpse of the app's exciting features and functionality. The trailer showcases the key highlights of the RightMove Application, giving you an overview of its capabilities.
+
+- RightMoveDemo: For a more detailed demonstration, check out our application demo. The demo showcases the main functionality of the application, providing a step-by-step walkthrough of its key features and how they can benefit users.
 
 ## Repositories:
 
