@@ -12,9 +12,9 @@ This is a brief overview of our app, highlighting key information:
 
 Explore our catalog, which contains pre-made assemblies for testing our application. Visit our [Website](https://peci-right-move.github.io/WebSite/) for easy access to the catalog.
 
-## Documentation:
+## Report and Documentation:
 
-Access our comprehensive documentation for detailed information on our app and its features.
+Access our report and documentation for detailed information on our app and its features.
 
 ## Videos:
 
